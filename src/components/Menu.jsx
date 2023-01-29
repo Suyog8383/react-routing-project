@@ -8,13 +8,13 @@ function Menu() {
         <h1>MENU</h1>
         <div class="grid-container">
           <div class="grid-item-data">
-            <Link className="link">Pizza</Link>
+            <p className="link">Pizza</p>
           </div>
           <div class="grid-item-data">
-            <Link className="link">Salads</Link>
+            <p className="link">Salads</p>
           </div>
           <div class="grid-item-data">
-            <Link className="link">Starter</Link>
+            <p className="link">Starter</p>
           </div>
           <div class="grid-item">
             Margherita
